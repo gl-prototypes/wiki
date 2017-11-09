@@ -11,7 +11,7 @@ func init() {
 	com.Register(&Component{}, "")
 }
 
-// Component is the wiki component
+// Component is the wiki system component
 type Component struct {
 	// Console gives us a reference to the
 	// component wiki is parimarily built around
