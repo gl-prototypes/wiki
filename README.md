@@ -5,7 +5,7 @@ A simple wiki with GitHub authentication in ~200 lines of Go.
 It is an example application using [com](github.com/gliderlabs/com) and
 the components of [stdcom](github.com/gliderlabs/stdcom).
 
-![Screenshot](/screenshot.jpg?raw=true)
+![Screenshot](https://github.com/gl-prototypes/wiki/blob/master/screenshot.png?raw=true)
 
 ## Setup
 
