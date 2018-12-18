@@ -14,7 +14,7 @@ func init() {
 // Component is the wiki system component
 type Component struct {
 	// Console gives us a reference to the
-	// component wiki is parimarily built around
+	// component wiki is primarily built around
 	Console *console.Component `com:"singleton"`
 
 	// Store is our datastore for wiki pages
